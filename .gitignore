@@ -1,0 +1,17 @@
+# Secrets
+*.pem
+*.csv
+*accessKeys*
+.env
+*.tfvars
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+# Python / Node
+venv/
+.venv/
+__pycache__/
+node_modules/
+# OS
+.DS_Store
